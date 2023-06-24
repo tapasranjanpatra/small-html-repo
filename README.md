@@ -1,2 +1,2 @@
 # small-html-repo
-This project only for beginner learner
+This project only for beginner html learner
